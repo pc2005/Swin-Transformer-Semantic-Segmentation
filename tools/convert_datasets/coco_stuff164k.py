@@ -1,34 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@pc2005 
-open-mmlab
-/
-mmsegmentation
-Public
-Code
-Issues
-95
-Pull requests
-49
-Actions
-Projects
-Wiki
-Security
-Insights
-mmsegmentation/tools/convert_datasets/coco_stuff164k.py /
-@MeowZheng
-MeowZheng [Enhancement] Revise pre-commit-hooks (#1315)
-Latest commit e5cd755 on Feb 23
- History
- 3 contributors
-@Junjun2016@MeowZheng@DerrickWang005
-264 lines (247 sloc)  5 KB
-  
 # Copyright (c) OpenMMLab. All rights reserved.
 import argparse
 import os.path as osp
